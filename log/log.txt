@@ -1,9 +1,17 @@
+w00-170207-16-LR-About: Sylabus of OS course, From Lecturer
+w00-170207-16-LR-About: Sylabus of OS course, From Lecturer
+w00-170207-17-LR-About: Sylabus of OS course, From Lecturer
+w00-170207-17-LR-About: Sylabus of OS course, From Lecturer
+w00-170209-16-LR-About: Introduction of Operating System, From Lecturer
+w00-170209-16-LR-About: Introduction of Operating System, From Lecturer
+w00-170209-17-LR-About: Introduction of Operating System, From Lecturer
+w00-170209-17-LR-About: Introduction of Operating System, From Lecturer
 w00-170209-13-PS-Doing Task Week0
-w00-170209-13-PS-Doing Task Week0
-w00-170211-15-LR-About: Cahpter 1 Introduction, From Operating System Concepts Essentials Book
-w00-170211-15-LR-About: Cahpter 1 Introduction, From Operating System Concepts Essentials Book
-w00-170211-16-LR-About: Cahpter 1 Introduction, From Operating System Concepts Essentials Book
-w00-170211-16-LR-About: Cahpter 1 Introduction, From Operating System Concepts Essentials Book
+w00-170209-19-PS-Doing Task Week0
+w00-170211-15-LR-About: Cahpter 1 Introduction, From: Book-Operating System Concepts Essentials
+w00-170211-15-LR-About: Cahpter 1 Introduction, From: Book-Operating System Concepts Essentials
+w00-170211-16-LR-About: Cahpter 1 Introduction, From: Book-Operating System Concepts Essentials
+w00-170211-16-LR-About: Cahpter 1 Introduction, From: Book-Operating System Concepts Essentials
 w00-170212-13-PS-Doing Task Week1
 w00-170212-13-PS-Doing Task Week1
 w00-170212-14-PS-Doing Task Week1
