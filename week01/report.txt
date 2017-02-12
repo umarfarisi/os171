@@ -1,0 +1,1 @@
+In this week01, I create folders and files using git and pushing to my github
