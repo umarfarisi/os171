@@ -20,3 +20,4 @@ drwxr-xr-x  2 muhammad.umar52 StafCS 4096 Feb 12 12:45 week09
 drwxr-xr-x  2 muhammad.umar52 StafCS 4096 Feb 12 12:45 week10
 drwxr-xr-x  2 muhammad.umar52 StafCS 4096 Feb 12 12:46 xtra
 /home/fasilkom/mahasiswa/m/muhammad.umar52/os171/week01
+Today is 12 Feb 2017 at 14:34:39
