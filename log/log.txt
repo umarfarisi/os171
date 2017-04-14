@@ -51,5 +51,9 @@ w07-170411-16-LR-About: Thread and Process, From: Lecturer
 w07-170411-17-LR-About: Thread and Process, From: Lecturer
 w07-170411-17-LR-About: Thread and Process, From: Lecturer
 w07-170413-14-PS-Doing Task Week06
+w07-170413-16-LR-About: Synchronization, From: Lecturer
+w07-170413-16-LR-About: Synchronization, From: Lecturer
+w07-170413-17-LR-About: Synchronization, From: Lecturer
+w07-170413-17-LR-About: Synchronization, From: Lecturer
 w07-170414-15-PS-Doing Task Week06
 w07-170414-16-PS-Doing Task Week06
