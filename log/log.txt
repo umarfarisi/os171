@@ -27,17 +27,27 @@ w04-170306-13-PS-Doing Task Week4
 w04-170306-13-PS-Doing Task Week4
 w04-170306-14-PS-Doing Task Week4
 w04-170306-14-PS-Doing Task Week4
-w04-170307-16-LR-About-Pointer in C
-w04-170307-16-LR-About-Pointer in C
-w04-170307-17-LR-About-Pointer in C
-w04-170307-17-LR-About-Pointer in C
-w04-170309-16-LR-About-IO in C
-w04-170309-16-LR-About-IO in C
-w04-170309-17-LR-About-IO in C
-w04-170309-17-LR-About-IO in C
+w04-170307-16-LR-About: Pointer in C
+w04-170307-16-LR-About: Pointer in C
+w04-170307-17-LR-About: Pointer in C
+w04-170307-17-LR-About: Pointer in C
+w04-170309-16-LR-About: IO in C
+w04-170309-16-LR-About: IO in C
+w04-170309-17-LR-About: IO in C
+w04-170309-17-LR-About: IO in C
 w04-170310-23-PS-Doing Task Week4
 w04-170310-23-PS-Doing Task week4
 w05-170318-06-PS-Doing Task week5
 w05-170318-06-PS-Doing Task week5
 w05-170318-07-PS-Doing Task week5
 w05-170318-07-PS-Doing Task week5
+w06-170406-16-LR-About: Thread and Process, From: Lecturer
+w06-170406-16-LR-About: Thread and Process, From: Lecturer
+w06-170406-17-LR-About: Thread and Process, From: Lecturer
+w06-170406-17-LR-About: Thread and Process, From: Lecturer
+w06-170406-23-LR-Review about Thread and Process
+w07-170411-16-LR-About: Thread and Process, From: Lecturer
+w07-170411-16-LR-About: Thread and Process, From: Lecturer
+w07-170411-17-LR-About: Thread and Process, From: Lecturer
+w07-170411-17-LR-About: Thread and Process, From: Lecturer
+w07-170413-14-PS-Doing Task Week6
