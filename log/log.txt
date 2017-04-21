@@ -58,8 +58,11 @@ w07-170413-17-LR-About: Synchronization, From: Lecturer
 w07-170414-15-PS-Doing Task Week06
 w07-170414-16-PS-Doing Task Week06
 w07-170416-11-LR-Review about Synchronization, From: Slide of Lecturer
-w08-170418-16-LR-About: Excercie of Syncronization and concurency
-w08-170418-16-LR-About: Excercie of Syncronization and concurency
-w08-170418-17-LR-About: Excercie of Syncronization and concurency
-w08-170418-17-LR-About: Excercie of Syncronization and concurency
-
+w08-170418-16-LR-About: Excercie of Syncronization and concurency, From: Lecturer
+w08-170418-16-LR-About: Excercie of Syncronization and concurency, From: Lecturer
+w08-170418-17-LR-About: Excercie of Syncronization and concurency, From: Lecturer
+w08-170418-17-LR-About: Excercie of Syncronization and concurency, From: Lecturer
+w08-170420-16-LR-About: Scheduling, From: Lecturer
+w08-170420-16-LR-About: Scheduling, From: Lecturer
+w08-170420-17-LR-About: Scheduling, From: Lecturer
+w08-170420-17-LR-About: Scheduling, From: Lecturer
