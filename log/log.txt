@@ -76,3 +76,15 @@ w09-170424-10-LR-Review about Syncronization
 w09-170424-10-LR-Review about Syncronization
 w09-170424-11-LR-Review about Syncronization
 w09-170424-11-LR-Review about Syncronization
+w09-170425-16-LR-About: Scheduling, From: Lecturer
+w09-170425-16-LR-About: Scheduling, From: Lecturer
+w09-170425-17-LR-About: Scheduling, From: Lecturer
+w09-170425-17-LR-About: Socket, From: Lecturer
+w09-170427-16-LR-About: File System, From: Lecturer
+w09-170427-16-LR-About: File System, From: Lecturer
+w09-170427-17-LR-About: File System, From: Lecturer
+w09-170427-17-LR-About: File System, From: Lecturer
+w09-170429-10-PS-Doing Task Week08
+w09-170429-10-PS-Doing Task Week08
+w09-170429-11-PS-Doing Task Week08
+w09-170429-11-PS-Doing Task Week08
